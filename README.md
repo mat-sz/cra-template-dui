@@ -5,5 +5,5 @@ This is the template for [Create React App](https://github.com/facebook/create-r
 You can create a new React app with DUI support with:
 
 ```
-npx create-react-app --template dui
+npx create-react-app [name] --template dui
 ```
